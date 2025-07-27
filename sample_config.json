@@ -1,0 +1,15 @@
+{
+  "id": "evt_1703123456789_1234",
+  "timestamp": "2023-12-20T15:30:45.123456",
+  "event_type": "click",
+  "user_id": "user_0001",
+  "value": 42.50,
+  "metadata": {
+    "source": "web",
+    "version": "1.0",
+    "session_id": "sess_123456",
+    "device": "desktop",
+    "ip_address": "192.168.1.100",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  }
+}
