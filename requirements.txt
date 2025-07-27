@@ -1,0 +1,4 @@
+pyspark>=3.4.0
+apache-iceberg>=1.4.0
+boto3>=1.26.0
+botocore>=1.29.0
